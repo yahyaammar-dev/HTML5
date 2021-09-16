@@ -16,11 +16,12 @@ IFrames can be used with the link tag to open the iframe when the link is clicke
 
 ## Images path
 
+```
 <img src="picture.jpg">	The "picture.jpg" file is located in the same folder as the current page
 <img src="images/picture.jpg">	The "picture.jpg" file is located in the images folder in the current folder
 <img src="/images/picture.jpg">	The "picture.jpg" file is located in the images folder at the root of the current web
 <img src="../picture.jpg">	The "picture.jpg" file is located in the folder one level up from the current folder
-
+```
 
 ## Use HTML5 Semantic tags instead of all div
 
@@ -49,14 +50,6 @@ IFrames can be used with the link tag to open the iframe when the link is clicke
 </picture>
   
  
- ##  Accordian in html
-  
-```  
- <details>
-  <summary>Epcot Center</summary>
-  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
-</details>
-```
 
   
  ## video tag
@@ -116,3 +109,14 @@ function showDetails(animal) {
 </body>
 </html>
 ```  
+
+  
+  
+  ##  Accordian in html
+  
+```  
+ <details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
+```
