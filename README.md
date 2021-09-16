@@ -22,22 +22,6 @@ IFrames can be used with the link tag to open the iframe when the link is clicke
 <img src="/images/picture.jpg">	The "picture.jpg" file is located in the images folder at the root of the current web
 <img src="../picture.jpg">	The "picture.jpg" file is located in the folder one level up from the current folder
 ```
-
-## Use HTML5 Semantic tags instead of all div
-
-<article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
   
 
 ## Use pricute tag for responsive images
@@ -120,3 +104,21 @@ function showDetails(animal) {
   <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
 </details>
 ```
+
+
+
+## Use HTML5 Semantic tags instead of all div
+
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
